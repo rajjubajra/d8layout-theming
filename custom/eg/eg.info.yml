@@ -4,3 +4,9 @@ descript: The Elegant Garden Theme
 core: 8.x
 base theme: classy
 screenshot: screenshopt.png
+
+
+libraries:
+  - eg/eg-css
+  - eg/quicksand
+  - core/normalize
