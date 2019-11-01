@@ -2,4 +2,5 @@ name: Elegant Garden
 type: theme
 descript: The Elegant Garden Theme
 core: 8.x
+base theme: classy
 screenshot: screenshopt.png
