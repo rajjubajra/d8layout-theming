@@ -76,6 +76,12 @@
       </aside>
     {% endif %}
 
+    {% if page.front %}
+      <div class="content front">
+        {{ page.front }}
+      </div>
+    {% endif %}
+
   </main>
 
   {% if page.footer %}
